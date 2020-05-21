@@ -4,7 +4,8 @@ title: fastify.js, typeORM, typescript 를 이용한 RESTful API 만들기 - (2)
 layout: post
 date: '2020-05-21 11:25:00'
 author: ynna
-categories: jekyll update
+categories: ynna
+comments: true
 ---
 
 # fastify.js, typeORM, typescript 를 이용한 RESTful API 만들기 - (2) Route 생성, Middleware, Handler 작성

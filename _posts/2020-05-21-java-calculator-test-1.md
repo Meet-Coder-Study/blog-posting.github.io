@@ -4,6 +4,7 @@ layout: post
 date: '2020-05-21 21:40:00'
 author: ksy90101
 categories: ksy90101
+comments: true
 ---
 
 # java를 이용해 콘솔로 문자열 계산기 구현하고 단위 테스트 진행하기 - 1

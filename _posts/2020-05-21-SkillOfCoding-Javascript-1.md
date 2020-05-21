@@ -4,6 +4,7 @@ layout: post
 date: '2020-05-21 23:55:00'
 author: shldhee
 categories: shldhee
+comments: true
 ---
 
 # 자바스크립트 코딩의 기술(시리즈 1 - 변수 할당으로 의도를 표현하라)

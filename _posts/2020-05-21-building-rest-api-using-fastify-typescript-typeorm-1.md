@@ -5,6 +5,7 @@ date: '2020-05-21 11:20:00 +0900'
 author: ynna
 categories:
 - ynna
+comments: true
 ---
 
 # fastify.js, typeORM, typescript 를 이용한 RESTful API 만들기 - (1) 프로젝트 설정, 모델 생성
