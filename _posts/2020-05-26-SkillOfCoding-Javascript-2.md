@@ -3,7 +3,7 @@ title: 자바스크립트 코딩의 기술(시리즈 2 - 배열로 데이터 컬
 layout: post
 date: '2020-05-26 00:10:00'
 author: shldhee
-categories: shldhee
+categories: javascript
 comments: true
 ---
 
