@@ -1,5 +1,5 @@
 ---
-title: 클린 아키텍처 1 ~ 2 장
+title: 클린 아키텍처 1장
 layout: post
 date: '2020-06-04 00:10:00'
 author: ChulYun
@@ -7,7 +7,7 @@ categories: Architecture
 comments: true
 ---
 
-# 클린 아키텍처 1 ~ 2 장
+# 클린 아키텍처 1장
 
 ## 1장. 설계와 아키텍쳐란?
 1. 아키텍쳐 (Architecture)  
