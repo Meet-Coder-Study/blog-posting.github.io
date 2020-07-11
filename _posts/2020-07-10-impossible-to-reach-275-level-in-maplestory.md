@@ -1,6 +1,6 @@
 ---
 layout: post
-title: :mushroom: 메이플은 재밌다
+title: 메이플은 재밌다
 date: '2020-07-10 00:10:00'
 author: yyna
 categories: toy-project
