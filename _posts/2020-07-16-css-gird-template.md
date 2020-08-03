@@ -1,5 +1,5 @@
 ---
-title: 열과 행을 다룰 수 있는 2차원 레이아웃 display: grid - grid로 리스트 배열 해보기
+title: 열과 행을 다룰 수 있는 2차원 레이아웃 display: grid \- grid로 리스트 배열 해보기
 layout: post
 date: '2020-07-16 13:00:00'
 author: sanghwanAN
