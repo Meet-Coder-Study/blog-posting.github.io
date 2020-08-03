@@ -1,5 +1,5 @@
 ---
-title: [React] 환경설정 제대로 알고 하기 (without CRA) ①
+title: \[React\] 환경설정 제대로 알고 하기 (without CRA) ①
 layout: post
 date: '2020-07-23 00:10:00'
 author: choisohyun
